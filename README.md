@@ -1,143 +1,77 @@
-# 🚗 Car Sales Analysis
+# Hi, I'm Akash 👋  
 
-## 📌 Project Overview
-This project presents a detailed **Exploratory Data Analysis (EDA)** on a Car Sales dataset.  
-The goal is to identify **trends, customer preferences, and dealership performance patterns** that can support business decisions and highlight market opportunities.
+🎓 Computer Science Graduate | 📊 Aspiring Data Analyst  
+---
 
-By using **descriptive statistics and visualizations**, this project transforms raw car sales data into **actionable insights**.
+## 🚀 About Me
+- 🎯 Passionate about **data analytics, visualization, and cloud technologies**  
+- 📊 Skilled in **Python, SQL, Excel, Tableau, Power BI**  
+- 🛠️ Hands-on with **Pandas, NumPy, Matplotlib, Seaborn**  
+- 🔍 Interested in turning **raw data into actionable insights**  
+- 🌍 Open to remote and global opportunities (Data Analyst / Junior DA roles)  
 
 ---
 
-## 📊 Objectives
-- Analyze sales distribution across car models, years, and price ranges.  
-- Study customer demographics such as income and region.  
-- Evaluate dealer performance across regions.  
-- Detect anomalies, trends, and opportunities.  
-- Provide insights for data-driven decision-making.  
+## 🛠️ Tech Stack
+**Languages & Tools**  
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- 🗄️ SQL (MySQL, PostgreSQL)  
+- 📊 Tableau | Power BI | Excel  
+- ☁️ AWS (S3, basic cloud concepts)  
+- 🔧 Git, GitHub, VS Code  
 
 ---
 
-## 🛠️ Steps in the Analysis
-### 1. Dataset Exploration
-- Overview of data, columns, and structure.  
+## 📂 Featured Projects
 
-### 2. Data Cleaning & Preprocessing
-- Handling missing values, duplicates, and outliers.  
-- Formatting categorical and numerical data.  
-
-### 3. Descriptive Statistics
-- Summary statistics of numerical features.  
-- Frequency analysis of categorical variables.  
-
-### 4. Data Visualization
-- Sales trends by year, price, and model.  
-- Customer demographics: income distribution.  
-- Dealer region performance.  
-- Correlation heatmaps to study relationships.  
-
-### 5. Insights & Key Findings
-- Factors influencing car sales.  
-- Regional differences in dealership performance.  
-- Price sensitivity and customer income impact.  
+### 🔹 [Cyclistic Bike-Share Case Study](https://github.com/DevDreamsAK/cyclistic-bike-share-analysis.git)
+Analyzed bike usage patterns to identify key customer behaviors and improve marketing strategies.  
+- Cleaned & transformed 12 months of trip data using Python  
+- Built Tableau dashboards to visualize customer usage trends  
+- Delivered recommendations to improve annual memberships
 
 ---
 
-## 📈 Tools & Libraries
-- **Python 🐍**  
-- **Pandas** → Data manipulation  
-- **NumPy** → Numerical operations  
-- **Matplotlib & Seaborn** → Visualizations  
-- **Jupyter Notebook** → Analysis and reporting  
+### 🔹 [HR Dashboard | Tableau](https://github.com/DevDreamsAK/HR-Dashboard.git)
+Interactive Tableau dashboard to analyze HR data.  
+- Identified employee attrition patterns  
+- Showed insights on age, department, and performance metrics  
+- Enhanced decision-making for HR teams  
 
 ---
 
-## 📊 Car Sales Dataset – Key Insights
-
-### 🔢 Numerical Features
-**Annual Income**
-- Range: ₹10,800 – ₹11,200,000  
-- Average: ₹830,846, Median: ₹735,000  
-- Indicates wide income distribution, with mid-to-high income groups dominating.  
-
-**Car Price ($)**
-- Range: $12,000 – $85,800  
-- Average: $28,089, Median: $23,000  
-- Majority of sales are in the affordable-to-mid range; luxury cars form a smaller but premium segment.  
+### 🔹 [Blinkit Sales Analysis](https://github.com/DevDreamsAK/BlinkitSalesAnalysis.git)
+A Jupyter Notebook project analyzing Blinkit sales data.  
+- Cleaned and structured raw sales dataset  
+- Calculated KPIs: **total sales, average sales, item count, average rating**  
+- Created visualizations to show sales distribution and trends  
 
 ---
 
-### 👥 Customer Demographics
-**Gender Distribution**
-- Male buyers dominate (~18,797) compared to female buyers (~6,000+).  
-- Indicates male-driven market, but women still form a notable segment.  
-
-**Customer Names**
-- Over 3,000 unique customers.  
-- Some repeat buyers or name duplication (e.g., *Thomas* appears 92 times).  
+### 🔹 [Car Rides Prediction (ML + Flask)](https://github.com/DevDreamsAK/carRidePrediction-.git)
+Machine Learning web app to predict weekly car rides.  
+- Built a Linear Regression model on real-world data  
+- Deployed with Flask and HTML/CSS frontend  
+- Added input validation and error handling  
 
 ---
 
-### 🏢 Dealers & Regions
-**Dealer Names**
-- 28 unique dealers.  
-- *Progressive Shippers Cooperative Association* leads with 1,318 sales.  
-
-**Dealer Regions**
-- 7 major regions.  
-- *Austin* has the highest sales (4,135), making it a key sales hub.  
+### 🔹 [House Price Prediction](https://github.com/DevDreamsAK/HousePricePredict)
+Machine Learning notebook project predicting house prices.  
+- Explored housing dataset with feature engineering  
+- Applied regression techniques for prediction  
+- Evaluated model performance with error metrics  
 
 ---
 
-### 🚗 Car Insights
-**Companies**
-- 30 unique brands.  
-- *Chevrolet* is the most popular (1,819 cars sold).  
-
-**Models**
-- 154 unique models.  
-- *Diamante* is the best-selling model (418 units).  
-
-**Engine**
-- *Double Overhead Camshaft* engines dominate (12,570 cars).  
-
-**Transmission**
-- 2 categories: Auto (12,570) and Manual (~11,335).  
-- Slight preference towards **automatic transmission**.  
-
-**Color**
-- 22 unique colors.  
-- *Pale White* is most popular (11,255 cars), showing strong preference for neutral shades.  
-
-**Body Style**
-- 5 types; **SUV** dominates with 6,374 sales, reflecting demand for larger, versatile vehicles.  
+## 📊 GitHub Stats
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDreamsAK&show_icons=true&theme=radical)
 
 ---
 
-## 💡 Business Insights
-**Customer Segment**
-- Mid-to-high income customers dominate.  
-- Potential to target female buyers more effectively.  
-
-**Car Market Trends**
-- SUVs and Chevrolets are most popular.  
-- Strong preference for white-colored cars.  
-- Automatic cars slightly more in demand.  
-
-**Regional Trends**
-- *Austin* leads in sales; requires higher inventory allocation.  
-- Other regions need targeted marketing campaigns.  
-
-**Dealer Performance**
-- Few top dealers dominate sales.  
-- Opportunity to strengthen partnerships with high performers and support underperformers.  
-
-**Price Sensitivity**
-- Majority of cars priced below $30,000.  
-- Luxury cars are a small but profitable niche.  
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/akash-ahamed-1629521a1/)  
+- 📧 Email: akashahamed38@gmail.com
 
 ---
-
-## 🚀 Conclusion
-The **Car Sales Analysis** project demonstrates how **EDA techniques** can uncover hidden insights from raw sales data.  
-
-These findings can help businesses **optimize pricing, improve dealership strategies, and align marketing efforts with customer needs**.  
+⭐️ From [DevDreamsAK](https://github.com/DevDreamsAK)
