@@ -24,6 +24,15 @@
 
 ## 📂 Featured Projects
 
+### 🔹 [Car Sales Analysis | Python ](https://github.com/DevDreamsAK/Car_sales_EDA.git)
+Detailed Exploratory Data Analysis (EDA) on car sales data to uncover trends and customer insights.  
+- Analyzed sales distribution across models, years, and price ranges  
+- Evaluated customer demographics and regional dealer performance  
+- Identified factors influencing car sales and price sensitivity  
+- Created visualizations and insights to support data-driven business decisions
+
+---
+
 ### 🔹 [Cyclistic Bike-Share Case Study](https://github.com/DevDreamsAK/cyclistic-bike-share-analysis.git)
 Analyzed bike usage patterns to identify key customer behaviors and improve marketing strategies.  
 - Cleaned & transformed 12 months of trip data using Python  
