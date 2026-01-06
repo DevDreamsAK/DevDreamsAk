@@ -24,6 +24,15 @@
 
 ## 📂 Featured Projects
 
+### 🔹 [Heart Failure Prediction | Logistic Regression ](https://github.com/DevDreamsAK/Heart_failure_prediction/blob/main/README.md)
+Machine learning project to predict the risk of heart failure using clinical patient data.  
+- Performed exploratory data analysis and correlation analysis  
+- Selected key medical features influencing heart failure  
+- Built and evaluated a Logistic Regression classification model
+- Assessed performance using accuracy, precision, recall, and confusion matrix
+
+---
+
 ### 🔹 [Car Sales Analysis | Python ](https://github.com/DevDreamsAK/Car_sales_EDA.git)
 Detailed Exploratory Data Analysis (EDA) on car sales data to uncover trends and customer insights.  
 - Analyzed sales distribution across models, years, and price ranges  
