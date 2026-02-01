@@ -1,6 +1,6 @@
 # Hi, I'm Akash 👋  
 
-🎓 Computer Science Graduate | 📊 Aspiring Data Analyst  
+🎓 Computer Science Graduate | 📊 Aspiring Data Science  
 ---
 
 ## 🚀 About Me
