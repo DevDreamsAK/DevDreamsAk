@@ -1,10 +1,10 @@
 # Hi, I'm Akash 👋  
 
-🎓 Computer Science Graduate | 📊 Aspiring Data Science  
+🎓 Computer Science Graduate | AI/ML Engineer @ WTI  
 ---
 
 ## 🚀 About Me
-- 🎯 Passionate about **data analytics, visualization, and cloud technologies**  
+- 🎯 Passionate about **data Science, visualization, and AI/ML Solutions**  
 - 📊 Skilled in **Python, SQL, Excel, Tableau, Power BI**  
 - 🛠️ Hands-on with **Pandas, NumPy, Matplotlib, Seaborn**  
 - 🔍 Interested in turning **raw data into actionable insights**  
